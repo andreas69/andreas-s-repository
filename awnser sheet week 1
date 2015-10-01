@@ -1,0 +1,45 @@
+Assessment one
+ISD
+21294348
+What is a code repository used for?
+A code repository is a collection of code (program) used to store your existing codes, old and new. Along with related documents. Along with this a repository will log all changes made to code, who made it and when. 
+Why is it advantageous to use a repository?
+If problems occur in one’s code they can go back into the repository and see where the problem is arising from. Who caused it and when.
+Describe the different “layers” of Software that exist on a typical computer and explain why there are different layers of software.
+•	Operating systems
+•	Utility programs 
+•	Software development tools
+Firstly we start with the OS (operating system).
+The OS is the most fundamental set of programmes on your computer, it controls the internal operations of the computer’s hardware.  Allows data to be saved and retrieved from storage devices. And allows other programmes to run on the computer.
+Secondly we have utility programmes. This is the kind on software that you will most likely be using on a regular basis. Such programmes include anti-virus, file compression programmes, data backup etc.
+Lastly, software development tools. Simply put, programmes that programmers use to modify, fix and create software. Such programmes are, assemblers, compilers, interpreters.
+We use different layers of software because different layers use different language. When we start at Operating systems we use “low level language” often written in binary (0100010101). As we go through the layers the level of the language rises. When we get to software development tools we get to a higher level of language. (Closer to humans) (Print (“hello”))
+What is an algorithm? 
+An algorithm is a sequence of commands to solve a problem. Algorithms are a useful tool because it gives you a blueprint of a programme and ultimately what you would like that programme to do. 
+Scrambled eggs
+•	Get Eggs
+•	Get bowl
+•	Crack 2 eggs 
+•	Get whisk
+•	Mix eggs with whisk UNTIL smooth
+•	Grab pan
+•	Grab oil
+•	Pour oil Into Pan
+•	Heat up Pan
+•	When pan is hot add eggs
+•	Grab spatula
+•	Mix with spatula
+•	When eggs are cooked turn off heat
+•	Grab plate
+•	Empty contents of pan onto plate
+•	Grab fork
+•	Enjoy
+Is Idle an interpreter or a complier or both?
+Python is an interpreter. It translates and executes the instructions in a high level language program. Interpreters combine translation and execute.
+The work flow is as follows. 
+•	High level programs
+•	Interpreter
+•	Machine language (00010101101)
+•	CPU
+And the process repeats itself for every instruction in the programme. 
+
