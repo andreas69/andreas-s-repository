@@ -1,0 +1,5 @@
+username = input ("what is ones name?")
+print("alright", username,)
+input("are you a fan of the wu tang")
+yes = ("Who isnt?",username,"Bring Da Ruckus")
+no = ("bloody hell",username,"pull your socks up")
