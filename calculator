@@ -1,0 +1,8 @@
+a = input ("what is first the number?  ")
+print ("you chose",a)
+b = input ("what is the second number?  ")
+print ("you chose",b)
+a = int(a)
+b = int(b)
+result = a * b
+print ("the magic number is =",result)
